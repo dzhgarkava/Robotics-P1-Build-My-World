@@ -1,4 +1,4 @@
-# Path Planning
+# Build-My-World
 Robotics Software Engineer Nanodegree Program
 
 ![Gazebo][image1]
